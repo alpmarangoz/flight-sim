@@ -16,4 +16,4 @@ I have experience with Matlab - Simulink environment for simulation and real-tim
 I know that there is a big world out there that I can not just scan with few keyword searches. Please send me a message if you know a good reference, library or tools that I can use or have some ideas to share.  
 
 ## Notes
-### Coding guide: https://github.com/microsoft/AirSim/blob/master/docs/coding_guidelines.md
+### Coding guide: <script src="https://gist.github.com/alpmarangoz/2e872fca25cf752db85242d7b9974c45.js"></script>
