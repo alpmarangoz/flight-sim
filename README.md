@@ -17,4 +17,4 @@ I know that there is a big world out there that I can not just scan with few key
 
 ## Notes
 ### Coding guide: https://gist.github.com/alpmarangoz/2e872fca25cf752db85242d7b9974c45
-https://www.lucidchart.com/documents/view/07acbae0-86b8-4d9c-99b8-d5ed51b5b076
+(https://www.lucidchart.com/documents/view/07acbae0-86b8-4d9c-99b8-d5ed51b5b076)
