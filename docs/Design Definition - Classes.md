@@ -17,5 +17,8 @@ The system has following main Classes:
 * Integrator Class: 
 * Mapping Class: 
 
-!includeurl https://www.lucidchart.com/documents/view/d53a467c-282d-4f34-8407-0c058efcab18
+Class Diagram can be found at: https://www.lucidchart.com/documents/view/d53a467c-282d-4f34-8407-0c058efcab18
+
+##Vehicle Class
+Simulated vehicles will be instances of this base class. 
 

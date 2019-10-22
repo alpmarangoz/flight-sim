@@ -45,8 +45,8 @@ class Vehicle:
     
 
 class Integration:
-    def __init__(self, name):
-        self.name = name
+    def __init__(self, dt):
+        self.dt = dt
         
     def swim(self):
         print(self.name + " is swimming.")
