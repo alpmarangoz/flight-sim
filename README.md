@@ -6,7 +6,7 @@ I want to develop a generic flight simulation library using Python 3. The main o
 * Develop a simulator with multibody and multi-vehicle simulation capability
 * It will be used for vehicle design, development, and testing of flight control algorithms
 * The project will have a good technical documentation about the software architecture and mathematical models.
-* The environmental effects (especially wind) will be realistacally modeled.
+* The environmental effects (especially wind) will be realistically modeled.
 * There will be realistic actuator and sensor models (I want to say high fidelity but I don't know if I will be able to verify the models).
 * It will be possible visualize the flight using existing tools such as Google Earth, [ayvri](https://ayvri.com), [dashware](http://www.dashware.net/), [airdata](https://airdata.com) , etc.
 
